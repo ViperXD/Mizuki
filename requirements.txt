@@ -1,6 +1,7 @@
 future
 emoji
 lxml
+youtube_search
 beautifulsoup4
 requests
 sqlalchemy==1.3.20
